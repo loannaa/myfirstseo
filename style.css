@@ -90,3 +90,17 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media(max-width: 500px){
+  h1{
+    font-size: 26px;
+  }
+  h2{
+    font-size: 18px;
+  }
+  h3{
+    font-size: 12px;
+  }
+  img{max-width: 90%}
+};
+
